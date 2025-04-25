@@ -1,11 +1,7 @@
 //Project 2
-//Qaasim_Rehan
-// mahdi shezad
-int aliAkbar;
-
+// Qaasim, Mahdi, and Ali
 public class Main {
 	public static void main(String[]args) {
-		
 		
 	}
 }
